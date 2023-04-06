@@ -156,6 +156,7 @@ header {
 .navi-menu {
 	padding-top: 20px;
 	display: flex;
+	font-family: 'Cambria', 'Athelas', 'Cochin', sans-serif;
 }
 
 .navi-menu li {
@@ -395,6 +396,7 @@ header nav.sp_open {
 
 .menu-main {
 	padding-bottom: 100px;
+	font-family: 'Cambria', 'Athelas', 'Cochin', sans-serif;
 }
 
 .menu-main ul {
@@ -674,15 +676,16 @@ footer h1 {
 .item2 {
 	margin: 0;
 	text-align: center;
+	font-family: 'Cambria', 'Athelas', 'Cochin', sans-serif;
 }
 
 .item2 h2 {
 	margin-bottom: 38px;
 	text-align: left;
-	font-size: 1.1rem;
+	font-size: 1.5rem;
 }
 .footer-about {
-	margin-top: 210%;
+	margin-top: 185%;
 }
 
 .item3 {
