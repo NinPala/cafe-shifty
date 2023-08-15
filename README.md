@@ -5,4 +5,5 @@
 また、レスポンシブ対応のデザインになっておりjQueryを使用して、ハンバーガーメニューなどのインタラクティブな機能を実装しています。
 
 ### [URL](https://ninpala.github.io/cafe-shifty/)
+### [予備URL](https://ninpala.github.io/cafe-shifty/)
 ![cafe-site02](https://user-images.githubusercontent.com/122263446/233116647-9e04d1f5-0f9e-495e-8c14-0b93afd4858d.jpeg)
